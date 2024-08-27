@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|c:\\users\\adril\\onedrive\\desktop\\2\u00B0 semestre\\programacion 2\\obligatorio p2 terminado con js\\obligatorio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|c:\\users\\adril\\onedrive\\desktop\\2\u00B0 semestre\\programacion 2\\obligatorio p2 terminado con js\\obligatorio\\potrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\potrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|c:\\users\\adril\\onedrive\\desktop\\2\u00B0 semestre\\programacion 2\\obligatorio p2 terminado con js\\obligatorio\\ovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\ovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265F598-8401-476E-B66D-04B692B853E7}|WebAppObligatorio\\WebAppObligatorio.csproj|c:\\users\\adril\\onedrive\\desktop\\2\u00B0 semestre\\programacion 2\\obligatorio p2 terminado con js\\webappobligatorio\\wwwroot\\js\\empleado\\altaempleado.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4265F598-8401-476E-B66D-04B692B853E7}|WebAppObligatorio\\WebAppObligatorio.csproj|solutionrelative:webappobligatorio\\wwwroot\\js\\empleado\\altaempleado.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265F598-8401-476E-B66D-04B692B853E7}|WebAppObligatorio\\WebAppObligatorio.csproj|c:\\users\\adril\\onedrive\\desktop\\2\u00B0 semestre\\programacion 2\\obligatorio p2 terminado con js\\webappobligatorio\\views\\empleado\\datospeon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4265F598-8401-476E-B66D-04B692B853E7}|WebAppObligatorio\\WebAppObligatorio.csproj|solutionrelative:webappobligatorio\\views\\empleado\\datospeon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4265F598-8401-476E-B66D-04B692B853E7}|WebAppObligatorio\\WebAppObligatorio.csproj|c:\\users\\adril\\onedrive\\desktop\\2\u00B0 semestre\\programacion 2\\obligatorio p2 terminado con js\\webappobligatorio\\wwwroot\\js\\empleado\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4265F598-8401-476E-B66D-04B692B853E7}|WebAppObligatorio\\WebAppObligatorio.csproj|solutionrelative:webappobligatorio\\wwwroot\\js\\empleado\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ovino.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\Obligatorio\\Ovino.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Ovino.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\Obligatorio\\Ovino.cs",
+              "RelativeToolTip": "Obligatorio\\Ovino.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:50:00.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosPeon.cshtml",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\WebAppObligatorio\\Views\\Empleado\\DatosPeon.cshtml",
+              "RelativeDocumentMoniker": "WebAppObligatorio\\Views\\Empleado\\DatosPeon.cshtml",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\WebAppObligatorio\\Views\\Empleado\\DatosPeon.cshtml",
+              "RelativeToolTip": "WebAppObligatorio\\Views\\Empleado\\DatosPeon.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T11:27:30.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Potrero.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\Obligatorio\\Potrero.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Potrero.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\Obligatorio\\Potrero.cs",
+              "RelativeToolTip": "Obligatorio\\Potrero.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAqwJcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:25:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\Obligatorio\\Sistema.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Sistema.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\Obligatorio\\Sistema.cs",
+              "RelativeToolTip": "Obligatorio\\Sistema.cs",
+              "ViewState": "AQIAAJECAAAAAAAAAAAcwIsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:24:49.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AltaEmpleado.js",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\WebAppObligatorio\\wwwroot\\js\\Empleado\\AltaEmpleado.js",
+              "RelativeDocumentMoniker": "WebAppObligatorio\\wwwroot\\js\\Empleado\\AltaEmpleado.js",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\WebAppObligatorio\\wwwroot\\js\\Empleado\\AltaEmpleado.js",
+              "RelativeToolTip": "WebAppObligatorio\\wwwroot\\js\\Empleado\\AltaEmpleado.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T23:11:51.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\WebAppObligatorio\\wwwroot\\js\\Empleado\\Login.js",
+              "RelativeDocumentMoniker": "WebAppObligatorio\\wwwroot\\js\\Empleado\\Login.js",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\2\u00B0 Semestre\\Programacion 2\\Obligatorio P2 TERMINADO con JS\\WebAppObligatorio\\wwwroot\\js\\Empleado\\Login.js",
+              "RelativeToolTip": "WebAppObligatorio\\wwwroot\\js\\Empleado\\Login.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T23:07:57.484Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Obligatorio.Potrero>
+<h1>Lista de Potreros</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Descripcion
+            </th>
+            <th>
+                Capacidad
+            </th>
+            <th>
+                Cantidad Animales
+            </th>
+
+            <th>
+                Ganancia potrero
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @item.id
+                </td>
+
+                <td>
+                    @item.descripcion
+                </td>
+                <td>
+                    @item.capacidadMaximaAnimales
+                </td>
+                <td>
+
+                    @if(item.GetGanado().Count > 0)
+                    {
+                        @item.GetGanado().Count
+
+                    }
+                    else
+                    {
+                        <p>No hay animales</p>
+                    }
+
+                
+                
+                </td>
+
+                <td>
+                    @item.GananciaPotrero()
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

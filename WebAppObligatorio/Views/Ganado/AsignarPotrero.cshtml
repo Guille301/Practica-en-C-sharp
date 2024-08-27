@@ -1,0 +1,19 @@
+﻿@using Obligatorio
+
+<h1>Asignar potrero al animal con id : @ViewBag.IdGanado</h1>
+<hr />
+<form method="post">
+    <input type="hidden" value="@ViewBag.IdGanado" name="idGanado" />
+    <select name="PotreroId">
+        @foreach (Potrero p in ViewBag.Potrero)
+        {
+            <option value="@p.id">@p.descripcion</option>
+        }
+
+    </select>
+
+
+    <input type="submit" value="Asignar" class="btn btn-primary" />
+</form>
+
+<p>@ViewBag.msg</p>

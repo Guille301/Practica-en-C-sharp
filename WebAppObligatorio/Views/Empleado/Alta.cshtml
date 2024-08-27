@@ -1,0 +1,44 @@
+﻿@model Obligatorio.Peon
+
+<h1>Alta de persona</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" id="FormularioAltaEmpleado">
+
+            <div class="form-group">
+                <label class="control-label">Nombre</label>
+                <input asp-for="nombre" class="form-control" id="nombre" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Email</label>
+                <input asp-for="mail" class="form-control" id="mail" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Contraseña</label>
+                <input asp-for="contraseña" class="form-control" id="contra" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Fecha</label>
+                <input asp-for="fechaIngreso" class="form-control" id="fechaIngreso" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Tipo</label>
+                <select asp-for="tipo" class="form-control" id="tipo">
+                    <option value="peon">Peon</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Es residente ?</label>
+                <input asp-for="residenteInstancia" type="checkbox" id="residenteInstancia" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Alta" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<p id="msgAltaEmpleado">@ViewBag.msg</p>
+<script src="/js/Empleado/AltaEmpleado.js"></script>

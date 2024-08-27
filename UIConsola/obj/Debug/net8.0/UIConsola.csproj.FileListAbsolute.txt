@@ -1,0 +1,105 @@
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\refint\UIConsola.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\ref\UIConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.exe
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.Up2Date
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\refint\UIConsola.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\UIConsola\obj\Debug\net8.0\ref\UIConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.Up2Date
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\refint\UIConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\ref\UIConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.Up2Date
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\refint\UIConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\ref\UIConsola.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.exe
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.deps.json
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\UIConsola.pdb
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.AssemblyReference.cache
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.csproj.Up2Date
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\refint\UIConsola.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.pdb
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\UIConsola.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\UIConsola\obj\Debug\net8.0\ref\UIConsola.dll

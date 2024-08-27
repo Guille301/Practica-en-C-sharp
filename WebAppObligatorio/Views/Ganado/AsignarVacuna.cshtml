@@ -1,0 +1,17 @@
+﻿@using Obligatorio
+
+<h1>Asignar vacuna al animal con id : @ViewBag.IdGanado</h1>
+<hr />
+<form method="post">
+    <input type="hidden" value="@ViewBag.IdGanado" name="idGanado" />
+    <select name="idV">
+        @foreach (Vacuna v in ViewBag.Vacunas)
+        {
+            <option value="@v.Id">@v.nombre</option>
+        }
+    </select>
+    <input type="date" name="fecha" />
+    <input type="submit" value="Asignar" class="btn btn-primary" />
+</form>
+
+<p>@ViewBag.msg</p>

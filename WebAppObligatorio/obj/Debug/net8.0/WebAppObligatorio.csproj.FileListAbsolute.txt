@@ -1,0 +1,999 @@
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.staticwebassets.runtime.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.RazorAssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebAppObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppObligatorio.props
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebAppObligatorio.styles.css
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebAppObligatorio.bundle.scp.css
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppOb.A60B3EEF.Up2Date
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\refint\WebAppObligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\WebAppObligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\obj\Debug\net8.0\ref\WebAppObligatorio.dll

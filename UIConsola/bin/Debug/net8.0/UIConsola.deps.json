@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UIConsola/1.0.0": {
+        "dependencies": {
+          "Obligatorio": "1.0.0"
+        },
+        "runtime": {
+          "UIConsola.dll": {}
+        }
+      },
+      "Obligatorio/1.0.0": {
+        "runtime": {
+          "Obligatorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UIConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Obligatorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

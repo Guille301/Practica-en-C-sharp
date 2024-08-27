@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Obligatorio.Empleado>
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+
+            <th>
+                Nombre
+            </th>
+
+            <th>
+                Mail
+            </th>
+
+            <th>
+                Fecha de Ingreso
+            </th>
+            <th>
+                Tipo
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.id
+                </td>
+                <td>
+                    @item.nombre
+                </td>
+                <td>
+                    @item.mail
+                </td>
+                <td>
+                    @item.fechaIngreso
+                </td>
+                <td>
+                    @item.tipo
+                </td>
+                <td>
+                    @Html.ActionLink("Detalles", "ListarTareasPorPeon", "Empleado", new { id = item.id }) |
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

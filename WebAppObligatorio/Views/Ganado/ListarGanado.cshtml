@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Obligatorio.Ganado>
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+
+            <
+            <th>
+                Sexo
+            </th>
+
+            <th>
+                Raza
+            </th>
+
+            <th>
+                Fecha de Nacimiento
+            </th>
+           
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @item.id
+                </td>
+                <td>
+                    @item.sexo
+                </td>
+                <td>
+                    @item.raza
+                </td>
+                <td>
+                    @item.fechaNacimiento
+                </td>
+                
+
+
+                <td>
+                    @Html.ActionLink("Asignarvacuna", "AsignarVacuna","Ganado", new { idGanado = item.id }) |
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

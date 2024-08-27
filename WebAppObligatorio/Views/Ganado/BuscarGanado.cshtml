@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Obligatorio.Ganado>
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form method="post">
+    <div>
+        <label class="control-label">Peso</label>
+        <input type="text" name="Peso">
+    </div>
+
+    <div>
+        <label class="control-label">Tipo</label>
+        <select name="Tipo">
+            <option value="Ovino">Ovino</option>
+            <option value="Bovino">Bovino</option>
+            
+            <!-- Puedes agregar más opciones según sea necesario -->
+        </select>
+    </div>
+
+    <input type="submit" value="Buscar" />
+</form>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Codigo Identificador
+            </th>
+
+            <th>
+                Tipo de animal
+            </th>
+
+            <th>
+                Peso
+            </th>
+
+            <th>
+                Sexo
+            </th>
+
+            <th>
+                Ganancia 
+            </th>
+
+            
+
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @item.codigoIdentificadorCaravana
+                </td>
+
+                <td>
+                    @item.TipoGanado() 
+                </td>
+
+                <td>
+                    @item.pesoActual
+                </td>
+                <td>
+                    @item.sexo
+                </td>
+                <td>
+                    @item.CalcularGanado()
+                </td>
+
+
+
+            
+            </tr>
+        }
+    </tbody>
+
+</table>
+<p>@ViewBag.msg</p>
+
+
+

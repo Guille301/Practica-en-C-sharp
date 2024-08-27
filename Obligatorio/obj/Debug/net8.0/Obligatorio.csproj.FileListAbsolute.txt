@@ -1,0 +1,448 @@
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio Programacion 2\Obligatorio P2\Obligatorio P2\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 11 junio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio P2 2 12 junio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 12 junio Actualizado\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 12 junio Ultima version\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 13 junio Ultima version\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 13 junio Version final\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Sebas\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Guille\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 14 junio Version Final\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio version 2\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 15 junio Final\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\loco1\Desktop\Obligatorio hoy\Obligatorio P2 2 18 junio version 2 Ultimate\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 18 junio version Maximun\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado 2\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI.FACULTADES\Downloads\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 2 19 de junio Casi terminado Sin Maquillaje\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Obligatorio P2 TERMINADO sin maquillaje\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\adril\OneDrive\Desktop\Programacion 2\Obligatorio P2 TERMINADO con JS\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll

@@ -1,0 +1,42 @@
+﻿@model Obligatorio.Tarea
+
+<h1>Edición de Tarea</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+
+            <div class="form-group">
+                <label class="control-label">Comentario</label>
+                <input asp-for="ComentarioPeon" class="form-control" />
+           </div>
+            <div class="form-group">
+                <input type="submit" value="Alta" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>@ViewBag.msg</p>
+
+
+<!--
+
+
+<h1>Edición de persona</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label class="control-label">Comentario</label>
+                <input asp-for="ComentarioPeon" class="form-control" />
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Alta" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>ViewBag.msg</p>
+-->

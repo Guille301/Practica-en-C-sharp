@@ -1,0 +1,51 @@
+﻿@model Obligatorio.Peon
+
+<h1>Detalles</h1>
+<div>
+    <h4>@Model.nombre</h4>
+    <hr />
+    <dl class="row">
+
+        <dt class="col-sm-2">
+            ID
+        </dt>
+        <dd class="col-sm-10">
+            @Model.id
+        </dd>
+        <dt class="col-sm-2">
+            Nombre
+        </dt>
+        <dd class="col-sm-10">
+            @Model.nombre
+        </dd>
+
+        <dt class="col-sm-2">
+            Email
+        </dt>
+        <dd class="col-sm-10">
+            @Model.mail
+        </dd>
+        <dt class="col-sm-2">
+            Fecha de ingreso
+        </dt>
+        <dd class="col-sm-10">
+            @Model.fechaIngreso.ToString("dddd, dd MMMM yyyy")
+        </dd>
+
+        <dt class="col-sm-2">
+            Residente
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.residenteInstancia)
+            {
+                @:Sí
+            }
+            else
+            {
+                @:No
+            }
+        </dd>
+
+
+    </dl>
+</div>

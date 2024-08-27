@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAppObligatorio
+build_property.RootNamespace = WebAppObligatorio
+build_property.ProjectDir = C:\Users\adril\OneDrive\Desktop\2° Semestre\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\adril\OneDrive\Desktop\2° Semestre\Programacion 2\Obligatorio P2 TERMINADO con JS\WebAppObligatorio
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/Alta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cQWx0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/AsignarTarea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cQXNpZ25hclRhcmVhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/AsignarTareaAPeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cQXNpZ25hclRhcmVhQVBlb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/DatosPeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRGF0b3NQZW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/ListarEmpleado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cTGlzdGFyRW1wbGVhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/ListarTareasPeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cTGlzdGFyVGFyZWFzUGVvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/ListarTareasPorPeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cTGlzdGFyVGFyZWFzUG9yUGVvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Empleado/TareaCompletada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cVGFyZWFDb21wbGV0YWRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Ganado/AsignarPotrero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXEFzaWduYXJQb3RyZXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Ganado/AsignarVacuna.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXEFzaWduYXJWYWN1bmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Ganado/BuscarGanado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXEJ1c2NhckdhbmFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Ganado/ListarGanado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXExpc3RhckdhbmFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Ganado/ListarGanadoPotrero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXExpc3RhckdhbmFkb1BvdHJlcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Ganado/RegistroBovino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXFJlZ2lzdHJvQm92aW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Potrero/PotrerosOrdenados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90cmVyb1xQb3RyZXJvc09yZGVuYWRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adril/OneDrive/Desktop/2° Semestre/Programacion 2/Obligatorio P2 TERMINADO con JS/WebAppObligatorio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vpfo0fybw2

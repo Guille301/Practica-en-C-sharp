@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Obligatorio.Tarea>
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@{
+    bool tieneTareasPendientes = Model.Any(t => !t.SiSeCompleto);
+}
+
+
+@if (tieneTareasPendientes)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Descripcion
+                </th>
+                <th>
+                    FechaDeRealizacion
+                </th>
+                <th>
+                    SiSeCompleto
+                </th>
+                <th>
+                    FechaCierre
+                </th>
+                <th>
+                    ComentarioPeon
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                @if (!item.SiSeCompleto)
+                {
+                    <tr>
+                        <td>
+                            @item.Descripcion
+                        </td>
+                        <td>
+
+                            @if(item.SiSeCompleto == true)
+                            {
+                                @item.FechaDeRealizacion
+                            }else
+                            {
+                            <p> No completada  </p>
+                        
+                            }
+
+                        </td>
+                        <td>
+                            @item.SiSeCompleto
+                        </td>
+                        <td>
+                            @item.FechaCierre
+                        </td>
+                        <td>
+                            @item.ComentarioPeon
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "TareaCompletada", "Empleado", new { id = item.Id }, null)
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Este peon no tiene tareas pendientes</p>
+}

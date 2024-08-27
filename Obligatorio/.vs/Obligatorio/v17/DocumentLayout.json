@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|c:\\users\\alumnofi\\desktop\\obligatorio\\obligatorio\\ganado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\ganado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|c:\\users\\alumnofi\\desktop\\obligatorio\\obligatorio\\vacunacionanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\vacunacionanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8686003-1C06-428D-ACD6-C2FD1EBB4459}|UIConsola\\UIConsola.csproj|c:\\users\\alumnofi\\desktop\\obligatorio\\uiconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8686003-1C06-428D-ACD6-C2FD1EBB4459}|UIConsola\\UIConsola.csproj|solutionrelative:uiconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|c:\\users\\alumnofi\\desktop\\obligatorio\\obligatorio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|c:\\users\\alumnofi\\desktop\\obligatorio\\obligatorio\\potrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\potrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|c:\\users\\alumnofi\\desktop\\obligatorio\\obligatorio\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952C215-987C-48CF-A5E3-0E5308F41ACE}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bovino.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\Bovino.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Bovino.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\Bovino.cs",
+              "RelativeToolTip": "Obligatorio\\Bovino.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:46:37.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VacunacionAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\VacunacionAnimal.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\VacunacionAnimal.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\VacunacionAnimal.cs",
+              "RelativeToolTip": "Obligatorio\\VacunacionAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:59:48.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ganado.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\Ganado.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Ganado.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\Ganado.cs",
+              "RelativeToolTip": "Obligatorio\\Ganado.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAqwF4AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:55:28.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\Sistema.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Sistema.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\Sistema.cs",
+              "RelativeToolTip": "Obligatorio\\Sistema.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAAowDUBAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:44:26.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Potrero.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\Potrero.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Potrero.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\Obligatorio\\Potrero.cs",
+              "RelativeToolTip": "Obligatorio\\Potrero.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:41:53.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\UIConsola\\Program.cs",
+              "RelativeDocumentMoniker": "UIConsola\\Program.cs",
+              "ToolTip": "C:\\Users\\alumnoFI\\Desktop\\Obligatorio\\UIConsola\\Program.cs",
+              "RelativeToolTip": "UIConsola\\Program.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAgwJ0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:58:40.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
